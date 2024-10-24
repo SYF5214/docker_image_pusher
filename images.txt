@@ -12,6 +12,7 @@ oliver006/redis_exporter
 prom/prometheus
 grafana/grafana
 prom/alertmanager
+eipwork/kuboard:v3.3.0.3
 
 
 
