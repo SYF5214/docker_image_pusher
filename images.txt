@@ -8,14 +8,11 @@ mysql:5.7
 # Prometheus
 prom/node-exporter
 prom/mysqld-exporter
-oliver006/redis_exporter
+prom/redis-exporter
 prom/prometheus
 grafana/grafana
 prom/alertmanager
 eipwork/kuboard:v3.3.0.3
-redis
-
-
 
 
 #支持指定架构
