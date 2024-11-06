@@ -15,7 +15,7 @@ prom/alertmanager
 eipwork/kuboard:v3.3.0.3
 nginx/nginx-prometheus-exporter
 apache/rocketmq-exporter
-keydb/keydb
+eqalpha/keydb
 
 
 #支持指定架构
