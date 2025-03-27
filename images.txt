@@ -16,6 +16,7 @@ eipwork/kuboard:v3.3.0.3
 nginx/nginx-prometheus-exporter
 apache/rocketmq-exporter
 eqalpha/keydb
+datart/datart
 
 
 #支持指定架构
